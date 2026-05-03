@@ -4,7 +4,7 @@ define('DB_HOST', 'localhost');
 define('DB_PORT', '5432');
 define('DB_NAME', 'bloodsync');
 define('DB_USER', 'postgres');
-define('DB_PASS', 'UOG0723002');
+define('DB_PASS', 'DB_Password');
 
 // Start session
 if (session_status() === PHP_SESSION_NONE) {
